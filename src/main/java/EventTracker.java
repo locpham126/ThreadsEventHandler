@@ -16,6 +16,7 @@ public class EventTracker implements Tracker {
     }
 
     synchronized public void push(String message) {
+
     }
 
     synchronized public Boolean has(String message) {
